@@ -1,0 +1,73 @@
+body{
+    background-color: whitesmoke;
+    font-family: "Times New Roman", sans-serif;
+}
+
+#container{
+    width: 100%;
+    font-size: 20px ;
+}
+
+main{
+    margin-left: 30px;
+    float: left;
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+input{
+    padding: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 17px;
+    font-family: "29LT Bukra", sans-serif;
+    /*margin-top: 200px;*/
+    margin-bottom: 50px;
+}
+
+aside{
+    text-align: center;
+    width: 300px;
+    height: 740px;
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    background-color: silver;
+    color: white;
+}
+
+aside button{
+    width: 190px;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 17px;
+    font-family: "29LT Bukra", sans-serif;
+    /*font-weight: bold;*/
+}
+
+#tbl{
+
+    width: 890px;
+    font-size: 20px;
+}
+
+#tbl:hover{
+    background-color: white;
+}
+
+#tbl th{
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+#tbl td{
+    background-color: #efeeee;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
